@@ -1,3 +1,3 @@
 # Krypt Fire
 
-A Messaging App that uses Firebase Authentication(v4.0) with Angular 2.
+A Messaging App that uses Firebase Authentication(v4.0) and Realtime Database with Angular 2.
